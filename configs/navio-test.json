@@ -1,0 +1,11 @@
+{
+  "Name": "NavioTestnet",
+  "Desc": "Navio Testnet",
+  "Id": "0x83bb031c",
+  "Port": 33670,
+  "Pver": 70001,
+  "DNSName": "testnet.nav.io",
+  "TTL": 600,
+  "InitialIPs": ["0.0.0.0", "0.0.0.0"],
+  "Seeders": []
+}
